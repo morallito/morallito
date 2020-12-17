@@ -10,18 +10,18 @@ that use such methodologies.Among my main characteristics, I like to highlight t
 teamwork, proactivity and my taste for solving problems in areas and areas of knowledge that
 are not part of my training.
 
-###🔭 
+### 🔭 
 
 - Currently working with IOT product developmant, going from low level hardware, 
 embedded systems, embedded AI, bluetooth/LoRa to ethernet gateways. And finishing to 
 web API's, databases and IOT infrastructure. 
 
 
-###🧠 
+### 🧠 
 
 - Currently learning tensor flow, python and web architecture. 
 
-###💻
+### 💻
 - Interested in colaborate with IoT free software projects.
 
 
