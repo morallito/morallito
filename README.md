@@ -64,6 +64,9 @@ are not part of my training.
 ## My most used languages in github:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morallito&layout=compact&hide=html,css)
 
+
+![Iago Moreira's github stats](https://github-readme-stats.vercel.app/api?username=morallito&show_icons=true&theme=merko)
+
  
  
  
