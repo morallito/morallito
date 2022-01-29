@@ -9,7 +9,7 @@ Functional programming is a hobby, my opinions about it are strongly not recomme
 ### Skills 
 
 - Python 
-- HCL (TErraform)
+- HCL (Terraform)
 - Kubernetes
 - Open Shift 
 - Shell (bash)
@@ -41,8 +41,8 @@ Functional programming is a hobby, my opinions about it are strongly not recomme
 * Pride 🌈
 
 
-<h2>Connect with me!</h2>
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/iagohmorais/) 
+### Connect with me!
 
-[<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/morallito)
-</div>
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Morallito on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://www.linkedin.com/in/iagohmoreira/)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Morallito on Twitter" title="Follow Raymo111 on Twitter"/>](https://twitter.com/morallito)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Morallito on Instagram" title="Follow Raymo111 on Instagram"/>](https://instagram.com/iagohmoreira)
