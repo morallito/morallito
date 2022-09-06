@@ -43,6 +43,5 @@ Functional programming is a hobby, my opinions about it are strongly not recomme
 
 ### Connect with me!
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Morallito on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://www.linkedin.com/in/iagohmoreira/)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Morallito on Twitter" title="Follow Raymo111 on Twitter"/>](https://twitter.com/morallito)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Morallito on Instagram" title="Follow Raymo111 on Instagram"/>](https://instagram.com/iagohmoreira)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Morallito on LinkedIn" title="Follow morallito on LinkedIn"/>](https://www.linkedin.com/in/iagohmoreira/)
+
