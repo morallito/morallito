@@ -2,7 +2,7 @@
 
 #### Profile: 
  
-BENG in Mechatronics  Engineering at  [CEFET-MG](https://www.cefetmg.br/), MSc Candidate at  [CEFET-MG](https://www.cefetmg.br/).  I am  currently learning and applying DevOps practices and cutting edge technology to help [IBM](https://www.ibm.com/) solve real world problems. 
+BENG in Mechatronics  Engineering at  [CEFET-MG](https://www.cefetmg.br/), MSc Candidate at  [CEFET-MG](https://sig.cefetmg.br/sigaa/public/programa/portal.jsf?lc=pt_BR&id=308).  I am  currently learning and applying DevOps practices and cutting edge technology to help [IBM](https://www.ibm.com/) solve real world problems. 
 
 Functional programming is a hobby, my opinions about it are strongly not recommended to sensitive people. Also a professional Linux distro-hopper. 
 
