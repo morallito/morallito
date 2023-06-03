@@ -38,7 +38,6 @@ Functional programming is a hobby, my opinions about it are strongly not recomme
 * Dogs 🐕🐩🐾
 * Space Exploration, Astronomy and Science 
 👾🚀🔭📘📐✏️📏🔬
-* Pride 🌈
 
 
 ### Connect with me!
